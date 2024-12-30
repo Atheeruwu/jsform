@@ -1,4 +1,4 @@
-### **Project Overview: Login and Registration Form**
+![signup ](https://github.com/user-attachments/assets/6685745c-e68f-4c4f-a4f9-3218c625b2de)### **Project Overview: Login and Registration Form**
 
 In this project, I built a responsive login and registration form with a smooth transition between the login and signup forms. The goal was to provide a user-friendly experience, allowing users to toggle between login and signup forms with seamless UI changes.
 
@@ -112,3 +112,8 @@ Explanation:
 - The `login-btn` and `signup-btn` are styled with a green background for consistency and user focus.
 - Media queries ensure that the form is responsive, adapting to smaller screen sizes.
 
+![signup ](https://github.com/user-attachments/assets/0d31055a-c561-4caf-9bad-844e6b11f05f)
+
+
+
+![login](https://github.com/user-attachments/assets/16d8d52b-d8e0-4f32-9b9b-315d5230ded9)
