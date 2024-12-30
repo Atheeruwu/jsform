@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login and Registration Form using HTML, CSS and JavaScript</title>
+  <!-- Custom CSS link -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <section class="container">
+    <div class="auth-links">
+      <a href="#" class="login-tab active">Login</a>
+      <a href="#" class="signup-tab">Sign up</a>
+    </div>
+    <div class="form-wrapper">
+      <!-- login form -->
+       <div class="form-box login-form">
+        <h1>Login</h1>
+        <form action="/">
+          <div class="input-feild">
+            <input type="email" placeholder="Email" aria-label="email">
+          </div>
+          <div class="input-feild">
+            <input type="password" placeholder="password" aria-label="password">
+          </div>
+
+          <div class="login-options">
+            <div class="check-box">
+              <input type="checkbox" aria-label="check-box">
+              <span>keep me logged in</span>
+            </div>
+            <a href="#" class="reset-pw">Reset password</a>
+          </div>
+
+          <button type="submit" class="login-btn">Login</button>
+
+          <div class="with-google">
+            <img src="google-logo-search-new-svgrepo-com.svg" alt="google logo image" width="24">
+            <a href="#">Login with google</a>
+          </div>
+
+        </form>
+       </div>
+       <!-- signup form -->
+       <div class="form-box signup-form">
+        <h1>sign up</h1>
+        <form action="/">
+          <div class="input-feild">
+            <input type="username" placeholder="username" aria-label="username">
+          </div>
+          <div class="input-feild">
+            <input type="email" placeholder="Email" aria-label="email">
+          </div>
+          <div class="input-feild">
+            <input type="password" placeholder="password" aria-label="password">
+          </div>
+
+          <div class="login-options">
+            <div class="check-box">
+              <input type="checkbox" aria-label="check-box">
+              <span>I agree to the terms and conditions</span>
+            </div>
+          </div>
+
+          <button type="submit" class="signup-btn">Sign up</button>
+
+          <div class="with-google">
+            <img src="google-logo-search-new-svgrepo-com.svg" alt="google logo image" width="24">
+            <a href="#">sign up with google</a>
+          </div>
+          
+        </form>
+       </div>
+    </div>
+  </section>
+  <!-- Custom JS link -->
+  <script src="app.js"></script>
+</body>
+</html>
