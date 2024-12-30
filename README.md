@@ -1,4 +1,4 @@
-![signup ](https://github.com/user-attachments/assets/6685745c-e68f-4c4f-a4f9-3218c625b2de)### **Project Overview: Login and Registration Form**
+### **Project Overview: Login and Registration Form**
 
 In this project, I built a responsive login and registration form with a smooth transition between the login and signup forms. The goal was to provide a user-friendly experience, allowing users to toggle between login and signup forms with seamless UI changes.
 
